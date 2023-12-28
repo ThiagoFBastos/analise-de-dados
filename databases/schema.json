@@ -1,0 +1,12 @@
+{"gateway_id":"string",
+ "gateway_name":"string",
+ "number_of_registered_sensors":"int",
+ "valid_configurations":"boolean",
+ "percentual_valid_configurations":"float",
+ "expected_measurements":"float",
+ "signal_mean_value":"float",
+ "signal_status":"string",
+ "signal_issue":"float",
+ "elapsed_time_since_last_measurement":"datetime",
+ "measurement_status":"string",
+ "one_hour_groups":"int"}
