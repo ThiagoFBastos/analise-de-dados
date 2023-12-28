@@ -1,12 +1,3 @@
-# Teste Product Operations - Dynamox
-
-    Teste para ingressar no time de Product Operations da Dynamox
-
-# Sobre a Dynamox
-
-A Dynamox é uma empresa de alta tecnologia que desenvolve sistemas de monitoramento e aquisição de dados de vibração e temperatura. 
-Somos uma empresa especialista em análise de vibrações e monitoramento da condição de ativos industriais.
-
 # Desafio
 
 O objetivo deste desafio é testar suas habilidades com o python e manipulação de dados. 
@@ -54,17 +45,3 @@ do dispositivo com base na data e hora atual.
 
 12. **one_hour_groups**: Forneça o número de grupos com duas medidas coletadas em um intervalo menor ou igual que 1 hora para cada dispositivo, levando em consideração o "id" do sensor. 
 DICA: Comece filtrando seu dataframe com base no "id" do sensor, depois organize o dataframe pelo datetime e por fim conte quantos pares aconteceram em menos de uma hora. Um par contado, deve ser descartado na sequência para não entrar novamente na próxima contagem.  
-
-Ao finalizar envie o código para o repositório fazendo uma Pull Request. Para fazer o teste, você deve puxar uma branch da master,
-utilizando o seguinte nome: "teste-seunome"
-
-Também será avaliado:
-    
-    - Organização do código (utilize funções para organização dos processos)
-    
-    - Código limpo (não dê muitas voltas no que precisa ser feito, utilize variáveis que façam sentido para quem for ler seu código)
-    
-    - Testes unitários
-        
- # Dúvidas sobre o teste?
-    Envie um email para tamara.anjos@dynamox.net
